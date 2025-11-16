@@ -3,7 +3,8 @@
 **一個基於 Python 和 KivyMD 的自動點擊工具，使用 Windows SendInput API 發送真實的滑鼠點擊事件。**
 
 ## 📹 Demo
-![](/assets/demo.mp4)
+
+https://github.com/user-attachments/assets/db302fac-5923-42cd-a18b-2211a75a2fcc
 
 > 💡 如果影片無法播放，請直接查看 [assets/demo.mp4](assets/demo.mp4)
 
