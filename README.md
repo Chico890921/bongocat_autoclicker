@@ -3,7 +3,7 @@
 **一個基於 Python 和 KivyMD 的自動點擊工具，使用 Windows SendInput API 發送真實的滑鼠點擊事件。**
 
 ## 📹 Demo
-https://github.com/Chico890921/bongocat_autoclicker/assets/demo.mp4
+![](/assets/demo.mp4)
 
 > 💡 如果影片無法播放，請直接查看 [assets/demo.mp4](assets/demo.mp4)
 
@@ -154,7 +154,7 @@ bongocat_autoclicker/
 
 ## 📝 授權
 
-> You can check out the full license [here](LICENSE.txt)
+> You can check out the full license [here](LICENSE)
 
 This project is licensed under the terms of the **GNU General Public License v3.0** (or any later version).
 
