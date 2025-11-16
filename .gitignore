@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist-info/
+
+# Virtual Environment
+.venv/
+venv/
+venv_py311/
+ENV/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup
+BongoCat_Old/
+
+# Test files (optional)
+test_*.py
+*_test.py
+build_exe.py
+
+# Logs
+*.log
