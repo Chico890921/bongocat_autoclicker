@@ -2,6 +2,11 @@
 
 **一個基於 Python 和 KivyMD 的自動點擊工具，使用 Windows SendInput API 發送真實的滑鼠點擊事件。**
 
+<p align="center">
+<a href="https://github.com/Chico890921/bongocat_autoclicker/releases"><img src="https://img.shields.io/github/downloads/Chico890921/bongocat_autoclicker/total?label=%E4%B8%8B%E8%BC%89%E6%AC%A1%E6%95%B8&style=for-the-badge"></a>
+<a href="https://github.com/Chico890921/bongocat_autoclicker/releases"><img src="https://img.shields.io/github/v/release/Chico890921/bongocat_autoclicker?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=for-the-badge"></a>
+</p>
+
 ## 📹 Demo
 
 https://github.com/user-attachments/assets/db302fac-5923-42cd-a18b-2211a75a2fcc
